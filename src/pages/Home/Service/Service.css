@@ -1,0 +1,12 @@
+.service {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 8px;
+    border-radius: 8px;
+}
+.service p {
+    text-align: justify;
+}
+.service img {
+    border-radius: 8px;
+}
